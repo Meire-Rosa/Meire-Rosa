@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Meire-Rosa
-- 👀 I’m interested in to enter the job market in the technology area.
-- 🌱 I’m currently learning about programing languages. 
-- 📫 How to reach me by e-mail: meirerematematica@gmail.com, or by linkedin:
-inkedin.com/in/rosemeire-aparecida-rosa-oliveira-484336230
+Olá, sou a Meire. 
 
-<!---
-Meire-Rosa/Meire-Rosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Graduada e mestre em Matemática Pura | Doutora em Física Espacial
+
+Foi durante o doutorado que tive meu primeiro contato com análise e modelagem de dados — e foi amor à primeira vista. ❤️
+
+Desde então, venho construindo minha trajetória na área de Dados, unindo minha formação em Matemática e Ciência ao desenvolvimento de soluções com Python, SQL, Databricks e outras tecnologias do ecossistema de Dados.
+
+🔎 Meu objetivo é transformar dados em conhecimento, insights e soluções que gerem valor.
